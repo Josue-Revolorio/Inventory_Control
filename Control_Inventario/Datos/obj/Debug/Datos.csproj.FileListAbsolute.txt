@@ -1,0 +1,6 @@
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Datos\bin\Debug\Datos.dll
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Datos\bin\Debug\Datos.pdb
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Datos\obj\Debug\Datos.dll
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Datos\obj\Debug\Datos.pdb

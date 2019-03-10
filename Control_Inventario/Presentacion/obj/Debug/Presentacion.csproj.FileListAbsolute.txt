@@ -1,0 +1,15 @@
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\bin\Debug\Negocio.dll
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\bin\Debug\Datos.dll
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\bin\Debug\Datos.pdb
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Presentacion\obj\Debug\Presentacion.pdb

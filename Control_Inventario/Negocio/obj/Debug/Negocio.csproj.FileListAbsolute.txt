@@ -1,0 +1,9 @@
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\bin\Debug\Negocio.dll
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\bin\Debug\Negocio.pdb
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\bin\Debug\Datos.dll
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\bin\Debug\Datos.pdb
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\obj\Debug\Negocio.dll
+C:\Users\josue\Documents\1. Documentos De Desarrollo\3. Git\2. Proyectos\3. InventarioEnCsharp\Inventory_Control\Control_Inventario\Negocio\obj\Debug\Negocio.pdb
